@@ -79,7 +79,7 @@ public class LogIn extends javax.swing.JFrame {
         jLabel9.setText("Don't have an account?");
         jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 150, -1, 21));
 
-        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Users\\Default.LAPTOP-JISTTHH9\\Desktop\\New Folder\\4.png")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/4.png"))); // NOI18N
         jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, 20, 20));
 
         jTextField2.setBackground(new java.awt.Color(0, 0, 0,0));
@@ -90,7 +90,7 @@ public class LogIn extends javax.swing.JFrame {
         jTextField2.setCaretColor(new java.awt.Color(255, 255, 255));
         jPanel1.add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 70, 130, -1));
 
-        jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Default.LAPTOP-JISTTHH9\\Desktop\\New Folder\\lock3.png")); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/lock3.png"))); // NOI18N
         jPanel1.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, 20, 20));
 
         jPasswordField1.setBackground(new java.awt.Color(0, 0, 0,100));
@@ -107,7 +107,7 @@ public class LogIn extends javax.swing.JFrame {
 
         jButton2.setBackground(new java.awt.Color(0, 0, 0,0));
         jButton2.setFont(new java.awt.Font("Leelawadee UI", 1, 12)); // NOI18N
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Default.LAPTOP-JISTTHH9\\Desktop\\New Folder\\log-in.png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/log-in.png"))); // NOI18N
         jButton2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 102, 51), 3, true));
         jButton2.setBorderPainted(false);
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -133,7 +133,7 @@ public class LogIn extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 110, 210, 210));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\Default.LAPTOP-JISTTHH9\\Desktop\\New Folder\\pexels-pixabay-268533 (6).jpg")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/pexels-pixabay-268533 (6).jpg"))); // NOI18N
         getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, 430));
 
         jLabel4.setFont(new java.awt.Font("Leelawadee", 1, 28)); // NOI18N

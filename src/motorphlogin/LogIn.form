@@ -151,7 +151,7 @@
         <Component class="javax.swing.JLabel" name="jLabel10">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Default.LAPTOP-JISTTHH9\Desktop\New Folder\4.png"/>
+              <Image iconType="3" name="/Images/4.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -188,7 +188,7 @@
         <Component class="javax.swing.JLabel" name="jLabel11">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Default.LAPTOP-JISTTHH9\Desktop\New Folder\lock3.png"/>
+              <Image iconType="3" name="/Images/lock3.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -233,7 +233,7 @@
               <Font name="Leelawadee UI" size="12" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Default.LAPTOP-JISTTHH9\Desktop\New Folder\log-in.png"/>
+              <Image iconType="3" name="/Images/log-in.png"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
@@ -293,7 +293,7 @@
     <Component class="javax.swing.JLabel" name="jLabel7">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\Default.LAPTOP-JISTTHH9\Desktop\New Folder\pexels-pixabay-268533 (6).jpg"/>
+          <Image iconType="3" name="/Images/pexels-pixabay-268533 (6).jpg"/>
         </Property>
       </Properties>
       <Constraints>
